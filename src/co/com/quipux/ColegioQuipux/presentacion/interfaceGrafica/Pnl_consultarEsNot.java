@@ -61,6 +61,8 @@ public class Pnl_consultarEsNot extends JPanel implements ActionListener{
         this.height=height;
         pp=instancia;
         
+        //Esto es una prueba de cambio
+        
         lbl_titulo =  new JLabelArje();
             lbl_titulo.setTexto("Sección: Consultar - Profesor Materia Grupo.", Fonts.Lato, 1, 14, Colores.pantone276C, 0);
             this.add(lbl_titulo);
